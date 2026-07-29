@@ -5625,7 +5625,7 @@ Section Title
   position: relative;
   text-transform: capitalize;
 }
-.sec-title .sub-title:before {
+/* .sec-title .sub-title:before {
   background-color: var(--theme-color2);
   bottom: 5px;
   content: "";
@@ -5633,7 +5633,7 @@ Section Title
   left: 0;
   position: absolute;
   width: 20px;
-}
+} */
 .sec-title .sub-title .icon-img {
   min-width: 14px;
 }
@@ -5935,7 +5935,7 @@ Section Title
 }
 
 .hero-1 {
-  margin-left: 140px;
+  /* margin-left: 140px; */
   padding: 200px 0 0;
 }
 @media (max-width: 1199.98px) {
@@ -5946,7 +5946,7 @@ Section Title
 }
 .hero-1 .hero-content {
   background: rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(10.25px);
+  /* backdrop-filter: blur(10.25px); */
   max-width: 1035px;
   padding: 90px 88px 90px 150px;
 }
